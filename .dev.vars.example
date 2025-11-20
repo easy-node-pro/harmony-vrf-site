@@ -1,0 +1,9 @@
+# Environment variables for local development
+# Copy this file to .dev.vars and customize as needed
+# .dev.vars is gitignored and should NOT be committed
+
+# Harmony ONE RPC endpoint (optional - defaults to https://api.harmony.one)
+# HARMONY_RPC=https://api.harmony.one
+
+# Rate limit per minute per IP (optional - defaults to 60 in dev, 100 in production)
+# RATE_LIMIT_PER_MINUTE=60
